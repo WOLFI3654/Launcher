@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="desc">Nothing</string>
+    <string name="appicon">AppIcon</string>
+</resources>
